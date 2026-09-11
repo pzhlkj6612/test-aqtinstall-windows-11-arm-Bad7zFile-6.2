@@ -21,10 +21,6 @@ jobs:
           - 6.2.2
           - 6.2.3
           - 6.2.4
-          # https://wiki.qt.io/Qt_6.3_Release
-          - 6.3.0
-          - 6.3.1
-          - 6.3.2
         iqta_setup_py: ['true', 'false']
         aqt_commit: 
           - 'b22c86daef2ceeab6635ee0851e089f7346ec286'  # Jun  2, 2025, v3.3.0
